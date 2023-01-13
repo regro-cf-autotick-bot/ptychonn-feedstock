@@ -1,5 +1,5 @@
 {% set name = "PtychoNN" %}
-{% set version = "0.0.2" %}
+{% set version = "0.1.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mcherukara/PtychoNN/archive/v{{ version }}.tar.gz
-  sha256: f25f4af4a5e464a2968b3bc28d769ad674edeb5b07e73081f55f909b0f6f68fe
+  sha256: 8dabbc2b7fcca7b89f5554a5f228b7910af0882d398f605ee0ad79eb99f8045b
 
 build:
   entry_points:
@@ -50,10 +50,7 @@ about:
   home: https://github.com/mcherukara/PtychoNN
   summary: Deep learning of ptychographic imaging
   description: >
-    PtychoNN is a two-headed encoder-decoder network that simultaneously
-    predicts sample amplitude and phase from input diffraction data alone.
-    PtychoNN is 100s of times faster than iterative phase retrieval and can
-    work with as little as 25X less data.
+    PtychoNN is a two-headed encoder-decoder network that simultaneously predicts sample amplitude and phase from input diffraction data alone. PtychoNN is 100s of times faster than iterative phase retrieval and can work with as little as 25X less data.
 
     Companion repository to the paper at: https://aip.scitation.org/doi/full/10.1063/5.0013065
 
