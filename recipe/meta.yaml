@@ -32,9 +32,10 @@ requirements:
     - matplotlib-base
     - numpy >=1.21,<2
     - python >=3.6
-    - pytorch
+    - pytorch >=1.12,<2
     - scikit-image
     - scipy
+    - torchinfo
     - tqdm
 
 test:
