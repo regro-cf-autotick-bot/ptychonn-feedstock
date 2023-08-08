@@ -1,11 +1,11 @@
-About ptychonn
-==============
+About ptychonn-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ptychonn-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mcherukara/PtychoNN
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ptychonn-feedstock/blob/main/LICENSE.txt)
 
 Summary: Deep learning of ptychographic imaging
 
