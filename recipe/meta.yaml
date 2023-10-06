@@ -26,13 +26,11 @@ requirements:
     - toml
   run:
     - click
-    - h5py
     - importlib-metadata
-    - importlib-resources
     - matplotlib-base
     - numpy >=1.21,<2
     - python >=3.6
-    - pytorch >=1.12,<2
+    - pytorch >=1.12,<2.1
     - scikit-image
     - scipy
     - torchinfo
