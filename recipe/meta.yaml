@@ -27,13 +27,12 @@ requirements:
   run:
     - click
     - importlib-metadata
+    - lightning
     - matplotlib-base
     - numpy >=1.21,<2
     - python >=3.6
     - pytorch >=1.12,<2.1
-    - scikit-image
     - scipy
-    - torchinfo
     - tqdm
 
 test:
@@ -62,4 +61,3 @@ extra:
   recipe-maintainers:
     - carterbox
     - mcherukara
-    - vbanakha
