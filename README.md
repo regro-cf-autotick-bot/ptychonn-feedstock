@@ -151,5 +151,4 @@ Feedstock Maintainers
 
 * [@carterbox](https://github.com/carterbox/)
 * [@mcherukara](https://github.com/mcherukara/)
-* [@vbanakha](https://github.com/vbanakha/)
 
