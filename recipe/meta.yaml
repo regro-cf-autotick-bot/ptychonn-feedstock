@@ -1,5 +1,5 @@
 {% set name = "PtychoNN" %}
-{% set version = "0.3.5" %}
+{% set version = "0.3.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mcherukara/PtychoNN/archive/v{{ version }}.tar.gz
-  sha256: 5dff7f391b82357d81340ad95bdab8ac684be0d091b819ddb4e8968c26e48151
+  sha256: 445505729f2c35add8f643c709a6559aa766a9cb0d7b31ff23ebde66cacd7d62
 
 build:
   entry_points:
