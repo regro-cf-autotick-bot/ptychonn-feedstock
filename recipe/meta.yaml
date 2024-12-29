@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mcherukara/PtychoNN/archive/v{{ version }}.tar.gz
-  sha256: 94bb4c0a09901934da9e459583a196bd17a0b0ce4f2811a1ef4b2729e84f7dc7
+  sha256: 89393cdbd3b9d624f844a670d60274fb4efb03286e747e592d02fe004fa3d2d3
 
 build:
   entry_points:
